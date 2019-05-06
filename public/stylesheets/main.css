@@ -24,6 +24,7 @@ i {
 
 .card {
 	background-color: #6b7a8f;
+	margin: 20px;
 }
 
 .card p {
@@ -34,6 +35,10 @@ i {
 #mainnav .navbar-brand {
 	color: #f7c331;
 	font-size: 2rem;
+}
+
+#mainnav .fa-bars {
+	color: #e6e3dc;
 }
 
 #mainnav .nav-link {
@@ -57,6 +62,7 @@ i {
 
 #about {
 	font-size: 1.5rem;
+	text-align: center;
 }
 
 .content {
