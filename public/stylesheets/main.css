@@ -1,0 +1,80 @@
+body {
+	background: #dcc7aa;
+	font-family: 'Roboto', sans-serif;
+	color: #b65a0e;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+i {
+	color: #f7c331;
+	margin-bottom: 1rem;
+}
+
+.jumbotron {
+	background: none;
+}
+
+.card {
+	background-color: #6b7a8f;
+}
+
+.card p {
+	color: #e6e3dc;
+	font-weight: 500;
+}
+
+#mainnav .navbar-brand {
+	color: #f7c331;
+	font-size: 2rem;
+}
+
+#mainnav .nav-link {
+	color: #e6e3dc;
+}
+
+#mainnav .nav-link:hover {
+	color: #f7c331;
+}
+
+#mainnav {
+	font-size: 1.5rem;
+	font-weight: 100;
+	background-color: #6b7a8f;
+}
+
+#hey {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+#about {
+	font-size: 1.5rem;
+}
+
+.content {
+	margin-bottom: 100px;
+	/* font-size: 1.4rem;
+	font-weight: 500; */
+}
+
+.content h3 {
+	font-weight: bold;
+	line-height: 2;
+}
+
+.content li {
+	font-size: 1.4rem;
+	font-weight: 400;
+}
+
+.navbar.scrolled {
+	background: #89c7c9;
+}
