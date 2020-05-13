@@ -32,6 +32,10 @@ i {
 	font-weight: 500;
 }
 
+.line {
+	white-space: nowrap;
+}
+
 #mainnav .navbar-brand {
 	color: #f7c331;
 	font-size: 2rem;
